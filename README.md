@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">LE PHP TEST</h1>
+    <h1 align="center">PHP FACTORY DESIGN PATTERN</h1>
     <br>
 </p>
 
